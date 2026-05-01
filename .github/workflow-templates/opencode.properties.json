@@ -1,0 +1,6 @@
+{
+  "name": "opencode agent",
+  "description": "Adds the opencode AI agent — comment /oc or /opencode on issues and PR reviews to invoke it.",
+  "iconName": "octicon-rocket",
+  "categories": ["Automation"]
+}
